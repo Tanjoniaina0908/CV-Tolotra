@@ -1,0 +1,75 @@
+.body{    
+ 
+text-align: center;
+display: flex;
+flex-direction: column;
+color: aliceblue;
+align-items: center;
+background-color: rgb(26, 55, 82);
+padding: 80px
+}
+
+/* body  */
+.tel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-direction: column;
+    text-justify: auto;
+     ;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+    text-justify: auto;
+    justify-content: center;
+    flex-direction: row;
+
+}
+.localisation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-direction: row;
+    text-justify: auto;
+}
+.image-arrondie{
+    width: 150px;
+    overflow: hidden;
+    border-radius: 100px;
+}
+.identité{
+    display: flex;
+    gap: 98px;
+    align-items: center;
+    color: aliceblue  ;
+    ;
+}
+.grandpart{
+   display: flex;
+   flex-direction: column;
+   flex-direction: row;
+   
+    ;
+}
+.part1{background-color: rgb(205, 222, 236);
+   margin-left:0px ;
+   margin-right:0px ;
+   padding-left:66px ;
+   padding-right:40px ;
+   
+   justify-content: center;
+   left: 20%;
+   width: 40%;
+
+}
+.part2{
+margin-left:0px ;
+margin-right:0px ;
+padding-left: 50px;
+padding-right:70px ;
+right:80% ;
+width:60% ;
+}
+
+    
