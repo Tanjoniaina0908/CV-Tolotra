@@ -4,7 +4,7 @@
       padding: 0;
       box-sizing: border-box;
     }
-
+   hr{ color: #000;}
     body {
       font-family: Arial, sans-serif;
       background-color: rgb(26, 55, 82);
